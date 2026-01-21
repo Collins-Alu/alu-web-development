@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html Lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title> Collins </title>
+</head>
+<body>
+        <h1>Name</h1>
+        <p>Hi, I am Collins </p>
+        <h2>What I love</h2>
+        <p>I Love F1</p>
+        <h3>My Favourite</h3>
+        <p>My favourite team is Redbull racing</p>
+        <h4>My Favourite driver</h4>
+        <p>My favourite Driver is Max Verstappen</p>
+
+        <img src="https://hips.hearstapps.com/hmg-prod/images/max-verstappen-red-bull-racing-rb16b-honda-engine-after-news-photo-1643588064.jpg?crop=1.00xw:0.898xh;0,0.102xh" alt="Max Verstappen Red Bull Racing">
+        <hx>
+
+        <h5> X post</h5>
+        <blockquote class="twitter-tweet" data-lang="en" data-theme="dark">
+<p lang="en" dir="ltr">Bit of fun before the break, looking forward to 2026 ✌️ <a href="https://t.co/YIqg8FcHjX">pic.twitter.com/YIqg8FcHjX</a></p>&mdash; Max Verstappen (@Max33Verstappen)
+
+<a href="https://twitter.com/Max33Verstappen/status/2003845780692762834?ref_src=twsrc%5Etfw">December 24, 2025</a></blockquote>
+</hx>
+
+<h5>My tweets</h5>
+<a> 	class="Twitter-timeline"
+	data-height="600"
+	data-theme="dark"
+	href="https://twitter.com/YOUR_USERNAME_HERE?ref_src=twsrc%5Etfw">
+	tweets by Collins
+
+</a>
+
+	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+</html>
