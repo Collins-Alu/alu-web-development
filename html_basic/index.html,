@@ -15,24 +15,24 @@
         <p>My favourite Driver is Max Verstappen</p>
 
         <img src="https://hips.hearstapps.com/hmg-prod/images/max-verstappen-red-bull-racing-rb16b-honda-engine-after-news-photo-1643588064.jpg?crop=1.00xw:0.898xh;0,0.102xh" alt="Max Verstappen Red Bull Racing">
-        <hx>
+        <hr>
 
         <h5> X post</h5>
         <blockquote class="twitter-tweet" data-lang="en" data-theme="dark">
-<p lang="en" dir="ltr">Bit of fun before the break, looking forward to 2026 ✌️ <a href="https://t.co/YIqg8FcHjX">pic.twitter.com/YIqg8FcHjX</a></p>&mdash; Max Verstappen (@Max33Verstappen)
+	<p lang="en" dir="ltr">Bit of fun before the break, looking forward to 2026 ✌️ <a href="https://t.co/YIqg8FcHjX">pic.twitter.com/YIqg8FcHjX</a></p>&mdash; Max Verstappen (@Max33Verstappen)
 
-<a href="https://twitter.com/Max33Verstappen/status/2003845780692762834?ref_src=twsrc%5Etfw">December 24, 2025</a></blockquote>
-</hx>
+	<a href="https://twitter.com/Max33Verstappen/status/2003845780692762834?ref_src=twsrc%5Etfw">December 24, 2025</a></blockquote>
+	<hr>
 
-<h5>My tweets</h5>
-<a> 	class="Twitter-timeline"
+	<h5>My tweets</h5>
+	<a> 	class="Twitter-timeline"
 	data-height="600"
 	data-theme="dark"
-	href="https://twitter.com/YOUR_USERNAME_HERE?ref_src=twsrc%5Etfw">
+	href="https://twitter.com/YOUR_USERNAME_HERE?ref_src=twsrc%5Etfw"
 	tweets by Collins
 
-</a>
+	</a>
 
-	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<script async src="https://platform.twitter.com/widgets.js"></script>
 </body>
 </html>
